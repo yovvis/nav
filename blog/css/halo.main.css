@@ -1,0 +1,9 @@
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/yovvis/nav@main/blog/css/default.cur),
+    default;
+}
+a,
+img {
+  cursor: url(https://cdn.jsdelivr.net/gh/yovvis/nav@main/blog/css/pointer.cur),
+    default;
+}
